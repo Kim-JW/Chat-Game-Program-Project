@@ -32,4 +32,5 @@
 
 ## Game
 **Rock Paper Scissors game**
-![rps_game](./images/rock_paper_scissors.png)
+
+![rock_paper_scissors](./images/rock_paper_scissors.png)
